@@ -1,0 +1,2 @@
+class CreateGenre < ApplicationRecord
+end
